@@ -8,6 +8,6 @@ git lfs install
 ```
 
 to do list:
-1. EDA
-2. Building model with best metrics
-3. Create inference pipeline ?
+[ ] 1. EDA
+[ ] 2. Building model with best metrics
+[ ] 3. Create inference pipeline ?
