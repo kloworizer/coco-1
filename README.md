@@ -6,7 +6,7 @@
 ## final model
 model yang digunakan ada pada folder models/Esha_R_CNN_3.h5 \
 notebook terkait model ada pada folder esha/R_CNN_3/ \
-final report ada pada folder docs \
+final report ada pada folder docs
 
 ## timeline
 ![timeline](https://i.ibb.co/7Qq6k52/photo-2022-07-20-16-06-49.jpg)
